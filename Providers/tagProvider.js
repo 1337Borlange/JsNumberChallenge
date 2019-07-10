@@ -1,5 +1,5 @@
 module.exports = {
-    getPersonalCode: () => {
+    getGamerTag: () => {
         throw Error();
     }
 };
